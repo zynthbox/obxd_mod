@@ -1,4 +1,12 @@
 {
+    "KPlugin": {
+        "Id": "io.zynthbox.mod.obxd",
+        "Name": "Obxd",
+        "Authors": [{ "Name": "Camilo H." }],
+        "Version": "0.1.0",
+        "License": "GPL-2.0+"
+    },
+    "KPackageStructure": "Zynthbox/Mod",
     "Name": "Obxd",
     "Engine": "ZBP_SYNTH_00012"
 }
